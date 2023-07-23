@@ -8,6 +8,7 @@ public class GitTest {
 
 
     @Test
+    //изменение 1
     void yandexTest() {
         Selenide.open("https://ya.ru");
     }
